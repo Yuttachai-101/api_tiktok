@@ -12,6 +12,6 @@ require (
 	gopkg.in/yaml.v3 v3.0.1 // indirect
 )
 
-require tiktokshop/open/sdk_golang v1.0.0
+// require tiktokshop/open/sdk_golang v1.0.0
 
-replace tiktokshop/open/sdk_golang => ./sdk_golang
+// replace tiktokshop/open/sdk_golang => ./sdk_golang
