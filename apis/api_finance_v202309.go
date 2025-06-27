@@ -19,7 +19,7 @@ import (
     "strings"
     "reflect"
 
-    "tiktokshop/open/sdk_golang/models/finance/v202309"
+    "github.com/Yuttachai-101/api_tiktok/models/finance/v202309"
 )
 
 

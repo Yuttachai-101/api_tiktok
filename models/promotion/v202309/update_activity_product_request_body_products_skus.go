@@ -12,7 +12,7 @@ package promotion_v202309
 
 import (
     "encoding/json"
-    "tiktokshop/open/sdk_golang/utils"
+    "github.com/Yuttachai-101/api_tiktok/utils"
 )
 
             // checks if the Promotion202309UpdateActivityProductRequestBodyProductsSkus type satisfies the MappedNullable interface at compile time

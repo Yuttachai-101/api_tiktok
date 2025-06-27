@@ -1,4 +1,4 @@
-module tiktokshop/open/sdk_golang
+module github.com/Yuttachai-101/api_tiktok
 
 go 1.23.0
 
@@ -12,6 +12,6 @@ require (
 	gopkg.in/yaml.v3 v3.0.1 // indirect
 )
 
-// require tiktokshop/open/sdk_golang v1.0.0
+// require github.com/Yuttachai-101/api_tiktok v1.0.0
 
-// replace tiktokshop/open/sdk_golang => ./sdk_golang
+// replace github.com/Yuttachai-101/api_tiktok => ./sdk_golang

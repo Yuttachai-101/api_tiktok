@@ -12,7 +12,7 @@ package finance_v202501
 
 import (
     "encoding/json"
-    "tiktokshop/open/sdk_golang/utils"
+    "github.com/Yuttachai-101/api_tiktok/utils"
 )
 
             // checks if the Finance202501GetTransactionsbyStatementResponseDataTransactions type satisfies the MappedNullable interface at compile time

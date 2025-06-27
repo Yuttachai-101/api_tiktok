@@ -12,7 +12,7 @@ package affiliate_seller_v202406
 
 import (
     "encoding/json"
-    "tiktokshop/open/sdk_golang/utils"
+    "github.com/Yuttachai-101/api_tiktok/utils"
 )
 
             // checks if the AffiliateSeller202406GetMarketplaceCreatorPerformanceResponseDataCreatorContentGmvDistribution type satisfies the MappedNullable interface at compile time

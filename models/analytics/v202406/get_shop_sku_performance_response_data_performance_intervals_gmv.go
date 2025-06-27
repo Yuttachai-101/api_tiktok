@@ -12,7 +12,7 @@ package analytics_v202406
 
 import (
     "encoding/json"
-    "tiktokshop/open/sdk_golang/utils"
+    "github.com/Yuttachai-101/api_tiktok/utils"
 )
 
             // checks if the Analytics202406GetShopSKUPerformanceResponseDataPerformanceIntervalsGmv type satisfies the MappedNullable interface at compile time

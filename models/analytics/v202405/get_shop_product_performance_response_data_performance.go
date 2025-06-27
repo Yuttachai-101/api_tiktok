@@ -12,7 +12,7 @@ package analytics_v202405
 
 import (
     "encoding/json"
-    "tiktokshop/open/sdk_golang/utils"
+    "github.com/Yuttachai-101/api_tiktok/utils"
 )
 
             // checks if the Analytics202405GetShopProductPerformanceResponseDataPerformance type satisfies the MappedNullable interface at compile time

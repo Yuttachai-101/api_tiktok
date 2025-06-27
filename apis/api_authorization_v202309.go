@@ -17,7 +17,7 @@ import (
     "net/http"
     "net/url"
 
-    "tiktokshop/open/sdk_golang/models/authorization/v202309"
+    "github.com/Yuttachai-101/api_tiktok/models/authorization/v202309"
 )
 
 

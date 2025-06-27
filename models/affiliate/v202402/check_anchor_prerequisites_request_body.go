@@ -12,7 +12,7 @@ package affiliate_v202402
 
 import (
     "encoding/json"
-    "tiktokshop/open/sdk_golang/utils"
+    "github.com/Yuttachai-101/api_tiktok/utils"
 )
 
             // checks if the Affiliate202402CheckAnchorPrerequisitesRequestBody type satisfies the MappedNullable interface at compile time

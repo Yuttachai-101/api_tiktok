@@ -45,10 +45,10 @@ import (
     "fmt"
     "testing"
 
-    "tiktokshop/open/sdk_golang/apis"
-    "tiktokshop/open/sdk_golang/utils"
+    "github.com/Yuttachai-101/api_tiktok/apis"
+    "github.com/Yuttachai-101/api_tiktok/utils"
 
-    product_v202502 "tiktokshop/open/sdk_golang/models/product/v202502"
+    product_v202502 "github.com/Yuttachai-101/api_tiktok/models/product/v202502"
 )
 ```
 
@@ -66,7 +66,7 @@ var (
 )
 ```
 
-Create a new instance for `Product``202502``ProductsSearchPost`.
+Create a new instance for ` Product``202502``ProductsSearchPost `.
 
 ```Go
 configuration := apis.NewConfiguration()

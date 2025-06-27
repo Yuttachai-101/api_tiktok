@@ -12,7 +12,7 @@ package authorization_v202401
 
 import (
     "encoding/json"
-    "tiktokshop/open/sdk_golang/utils"
+    "github.com/Yuttachai-101/api_tiktok/utils"
 )
 
             // checks if the Authorization202401GetWidgetTokenResponse type satisfies the MappedNullable interface at compile time

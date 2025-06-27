@@ -18,7 +18,7 @@ import (
     "net/url"
     "strings"
 
-    "tiktokshop/open/sdk_golang/models/logistics/v202309"
+    "github.com/Yuttachai-101/api_tiktok/models/logistics/v202309"
 )
 
 

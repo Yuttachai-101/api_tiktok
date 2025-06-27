@@ -12,7 +12,7 @@ package affiliate_creator_v202410
 
 import (
     "encoding/json"
-    "tiktokshop/open/sdk_golang/utils"
+    "github.com/Yuttachai-101/api_tiktok/utils"
 )
 
             // checks if the AffiliateCreator202410SearchCreatorAffiliateOrdersResponseDataOrdersSkusActualShopAdsCommission type satisfies the MappedNullable interface at compile time
