@@ -30,7 +30,7 @@ func TestExample(t *testing.T) {
 	configuration.AddAppInfo(appKey, appSecret)
 	apiClient := apis.NewAPIClient(configuration)
 	request := apiClient.SellerV202309API.Seller202309ShopsGet(context.Background())
-	request = request.XTtsAccessToken(refreshToken)
+	request = request.XTtsAccessToken(refreshToken.Data.RefreshToken)
 	request = request.ContentType("application/json")
 	resp, httpRes, err := request.Execute()
 	if err != nil || httpRes.StatusCode != 200 {
